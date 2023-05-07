@@ -1,4 +1,3 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://adrian-y1.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Aspiring full-stack developer with a passion for front-end and back-end technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcxNzM4N2ZmMjlhOGM1Y2VkZWM2NDM2YmM4NjJmMTgwYTkzNGVkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
