@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring full-stack developer with a passion for front-end and back-end technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcxNzM4N2ZmMjlhOGM1Y2VkZWM2NDM2YmM4NjJmMTgwYTkzNGVkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-y1&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-y1" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-y1&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-y1" /> </p> -->
 
 - 🔭 I’m currently working on [Facebook Clone](https://github.com/adrian-y1/odin-facebook)
 
